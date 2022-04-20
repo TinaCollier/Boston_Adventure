@@ -1,0 +1,31 @@
+# need to input landmarks
+
+Boston_landmarks = {
+  'Minuteman Bikeway': set(['ALEWIFE']),
+  'Danehy Park': set(['ALEWIFE']),
+  'Lexington Park: Community Garden': set(['Davis']),
+  'Somerville Open Studios': set(['Davis']),
+  'Harvard Museum': set(['Harvard']),
+  'Mr. Bartleys Burgers': set(['Harvard']),
+  'MIT Museum': set(['Kendall/MIT']),
+  'Esplanade': set(['Charles/MGH']),
+  'Community Boating': set(['Charles/MGH']),
+  'Boston Common': set(['Park St']),
+  'Public Garden': set(['Park St']),
+  'Freedom Trail': set(['Park St']),
+  'Retail and Shopping': set(['Downtown']),
+  'City Hall': set(['Downtown']),
+  'Tea Party Museum': set(['South Station']),
+  'Boston Childrens Museum': set(['South Station']),
+  'Castle Island': set(['Broadway']),
+  'Donald McKay Memorial': set(['Castle Island']),
+  'Carson Beach': set(['Andrew']),
+  'Harbor Walk': set(['Andrew']),
+  'John F. Kennedy Presidential Library and Museum': set(['JFK/UMass']),
+  'Edward M. Kennedy Institute for the United State Senate': set(['JFK/UMass']),
+  'Quincy Market': set(['Quincy Center']),
+  'French Common': set(['BRAINTREE']),
+  'Sunset Lake': set(['BRAINTREE']),
+  'Holocaust Memorial': set(['Capen St']),
+  'Capen Building: Union Oyster House': set(['Capen St'])
+}
