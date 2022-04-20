@@ -11,7 +11,32 @@ for letter, landmark in landmark_choices.items():
 stations_under_construction = ['Butler']
 
 def greet():
-  print("Welcome to the Red Line Station in Boston, Massachusettes!")
+  print("                        @@@                       ")
+  print("         @@@@@@@@@@@@@@     @@@@@@@@@@@@@@        ")
+  print("      @@*                                 /@@     ")
+  print("    @@              ...........              @@   ")
+  print("    @@   @@@@@@@@@@@           @@@@@@@@@@@   @@   ")
+  print("    @@  @@         @@@@@@@@@@@@@         @@  @@   ")
+  print("   #@   @@              ,@               @@   @(  ")
+  print("   @@   @@              ,@               @@   @@  ")
+  print("   @@   @#              ,@               &@   @@  ")
+  print("   @@  &@                                 @%  @@  ")
+  print("   @@  @@               ,@                @@  @@  ")
+  print("   @@  @@                                 @@  @@  ")
+  print("   @@   @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   @@  ")
+  print("  #@                                           @( ")
+  print("  @@     @@@@                         @@@@     @@ ")
+  print("  @@   @@    @@                     @@    @@   @@ ")
+  print("  @@   @@@  @@(                     %@@  @@&   @@ ")
+  print("  @@                                           @@ ")
+  print("  @@ @@   @@   @@   @@  .@   @@   @@   @@   @@ @@ ")
+  print("  @@ @@   @@   @@   @&   @   @@   @@   @@   @@ @@ ")
+  print("   @@@@/////////////////////////////////////@@@@  ")
+  print("             @@                     @@            ")
+  print("            @@                       @@           ")
+  print("      %@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#     ")
+  print("         @@                             @@        ")
+  print("Welcome to the Red Line Station in Boston, Massachusetts!")
   print("We'll help you find the shortest route between the following Boston landmarks:\n" + landmark_string)
 
 def red_line_route():
